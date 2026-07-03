@@ -179,9 +179,9 @@ This project implements an end-to-end **animal image classification system** tra
 
 ![Model 9 Results](Screenshot%202026-07-03%20111015.jpg)
 
-![Model 9 Results]("C:\Users\Shrabani P\IronHack\Week3_Day3\Screenshot 2026-07-03 111123.jpg")
+![Model 9 Results](Screenshot%202026-07-03%20111123.jpg)
 
-![Model 9 Results]("C:\Users\Shrabani P\IronHack\Week3_Day3\Screenshot 2026-07-03 111144.jpg")
+
 
 ---
 
