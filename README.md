@@ -111,8 +111,6 @@ This project implements an end-to-end **animal image classification system** tra
 
 **Key Takeaway**: Progress from Models 1→9 shows the importance of architecture selection, regularization, and transfer learning in achieving high performance on image classification tasks.
 
-
-
 ### 📈 Detailed Model Performance Metrics
 
 | Model | Training Accuracy | Validation Accuracy | Test Accuracy | Overfitting/Underfitting | Description |
