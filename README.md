@@ -111,13 +111,7 @@ This project implements an end-to-end **animal image classification system** tra
 
 **Key Takeaway**: Progress from Models 1→9 shows the importance of architecture selection, regularization, and transfer learning in achieving high performance on image classification tasks.
 
-### 📊 Comparison Table
-| Model | Architecture | Approach | Test Accuracy | Training Time | Inference Speed | Best For |
-|-------|------|----------|---------------|---------------|-----------------|----------|
-| Model 1 | Custom CNN | From Scratch | ~72% | Fast | Fast | Learning |
-| Model 2 | CNN + Dropout/BatchNorm | Custom Enhanced | ~81% | Moderate | Fast | Experimentation |
-| Model 3 | VGG16/ResNet50 | Transfer Learning | ~89% | Slow | Moderate | Testing Transfer |
-| **Model 9** | **MobileNetV3Large** | **Transfer Learning** | **95.2%** | **Moderate** | **Fast** | **Production ✅** |
+
 
 ### 📈 Detailed Model Performance Metrics
 
@@ -184,6 +178,11 @@ This project implements an end-to-end **animal image classification system** tra
 3. ✅ Proper data augmentation
 4. ✅ Balanced class weights
 5. ✅ Optimal regularization (dropout + batch norm)
+
+![Model 9 Results]("C:\Users\Shrabani P\IronHack\Week3_Day3\Screenshot 2026-07-03 111015.jpg")
+
+![Model 9 Results]("C:\Users\Shrabani P\IronHack\Week3_Day3\Screenshot 2026-07-03 111123.jpg")
+![Model 9 Results]("C:\Users\Shrabani P\IronHack\Week3_Day3\Screenshot 2026-07-03 111144.jpg")
 
 ---
 
