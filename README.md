@@ -177,7 +177,7 @@ This project implements an end-to-end **animal image classification system** tra
 4. ✅ Balanced class weights
 5. ✅ Optimal regularization (dropout + batch norm)
 
-![Model 9 Results](images/Screenshot 2026-07-03 111015.jpg)
+![Model 9 Results](images/[Screenshot 2026-07-03 111015.jpg](https://github.com/spqdot/Project-I-Deep-Learning-Image-Classification-with-CNN/blob/main/Screenshot%202026-07-03%20111015.jpg))
 
 ![Model 9 Results]("C:\Users\Shrabani P\IronHack\Week3_Day3\Screenshot 2026-07-03 111123.jpg")
 
