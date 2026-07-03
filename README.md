@@ -181,6 +181,7 @@ This project implements an end-to-end **animal image classification system** tra
 
 ![Model 9 Results](Screenshot%202026-07-03%20111123.jpg)
 
+![Model 9 Results](Screenshot%202026-07-03%20111144.jpg)
 
 
 ---
